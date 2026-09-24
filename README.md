@@ -1,4 +1,4 @@
-# PM-turi2-preprocessing-AliMasumAjjawiyi
+
 # Praktikum 2- preprocessing
 
 Mata Kuliah: Pembelajaran Mesin (INF62325)
